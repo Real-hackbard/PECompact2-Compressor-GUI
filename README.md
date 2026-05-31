@@ -206,6 +206,8 @@ These are some examples of how the codecs are used to modify the code. For furth
 To update the program, you can simply overwrite the "PECompact2.exe" located in the "Drivers" folder.
 ```
 ..\Drivers\PECompact2.exe
+..\Drivers\*.dll
+..\Hooks\*.dll
 ```
 
 # Credits:
