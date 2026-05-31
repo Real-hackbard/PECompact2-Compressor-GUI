@@ -215,19 +215,19 @@ PECompact was designed and written by Jeremy Collake.
 PECompact is (c)1999-2009 by Jeremy Collake, DBA Bitsum Technologies.
 
 * Compression algorithms:
-    * LZMA written by Igor Pavlov ( http://www.7-zip.org )  
-    * FFCE, aPLib, and BriefLZ written by Jөrgen Ibsen ( http://www.ibsensoftware.com )  
-    * JCALG1 written by Jeremy Collake
+    * ```LZMA``` written by Igor Pavlov ( http://www.7-zip.org )  
+    * ```FFCE```, aPLib, and BriefLZ written by Jөrgen Ibsen ( http://www.ibsensoftware.com )  
+    * ```JCALG1``` written by Jeremy Collake
 
 * CODEC plug-ins:
-    * FFCE, aPLib, BriefLZ, Password, and MessageBox by Jөrgen Ibsen
-    * JCALG1 codce and algorithm by Jeremy Collake
-    * LZMA2 plug-in by Jeremy Collake (algorithm by Igor Pavlov)
-    * ElfHash by BoB -> Team PEiD http://peid.info/BobSoft/
+    * ```FFCE, aPLib, BriefLZ```, Password, and MessageBox by Jөrgen Ibsen
+    * ```JCALG1``` codce and algorithm by Jeremy Collake
+    * ```LZMA2``` plug-in by Jeremy Collake (algorithm by Igor Pavlov)
+    * ```ElfHash```` by BoB -> Team PEiD http://peid.info/BobSoft/
 
 * API Hook plug-ins:
-    * IsPacked, FastImport, and API Redirect by Jeremy Collake
-    * IsDebuggerPresent, Delphi API hook template, and more by BoB -> Team PEiD http://peid.info/BobSoft/  
+    * ```IsPacked, FastImport```, and API Redirect by Jeremy Collake
+    * ```IsDebuggerPresent```, Delphi API hook template, and more by BoB -> Team PEiD http://peid.info/BobSoft/  
 
 * Loader plug-ins:
-    * Default, Reduced (slim), Anti-debug, and Debug by Jeremy Collake
+    * ```Default, Reduced (slim), Anti-debug```, and Debug by Jeremy Collake
