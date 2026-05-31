@@ -11,7 +11,7 @@
 
 </br>
 
-<img src="https://github.com/user-attachments/assets/96d4c3fb-2c29-4965-8b52-bc23cfde7a12" />
+<img src="https://github.com/user-attachments/assets/96d4c3fb-2c29-4965-8b52-bc23cfde7a12" />  
 
 </br>
 
@@ -19,7 +19,7 @@ PECompact2 is a utility of the genre known as "executable packers". Executable p
 
 </br>
 
-![PECompact2 Compressor GUI](https://github.com/user-attachments/assets/287b0ce9-d821-490a-afa7-d43befc26727)
+<img src="https://github.com/user-attachments/assets/2ea43ed9-29a3-4fe3-90f6-bbae7ba473e6" />  
 
 </br>
 
