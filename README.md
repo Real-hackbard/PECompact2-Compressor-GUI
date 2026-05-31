@@ -223,7 +223,7 @@ PECompact is (c)1999-2009 by Jeremy Collake, DBA Bitsum Technologies.
     * ```FFCE, aPLib, BriefLZ```, Password, and MessageBox by Jөrgen Ibsen
     * ```JCALG1``` codce and algorithm by Jeremy Collake
     * ```LZMA2``` plug-in by Jeremy Collake (algorithm by Igor Pavlov)
-    * ```ElfHash```` by BoB -> Team PEiD http://peid.info/BobSoft/
+    * ```ElfHash``` by BoB -> Team PEiD http://peid.info/BobSoft/
 
 * API Hook plug-ins:
     * ```IsPacked, FastImport```, and API Redirect by Jeremy Collake
