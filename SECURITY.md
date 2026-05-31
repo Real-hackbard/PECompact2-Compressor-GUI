@@ -8,8 +8,7 @@ currently being supported with security updates.
 | Version | Supported          |
 | ------- | ------------------ |
 | 1.0.x   | :white_check_mark: |
-| 1.1.x   | :white_check_mark: BugFix Load Codecs,PlugIns,ApiHooks; 
-Add lzma.exe,PEC2.exe,PEChksum.exe,peclassify.exe,PEWaterMark.exe,testcodec.exe,petrim.exe;  |
+| 1.1.x   | :white_check_mark: BugFix Load Codecs,PlugIns,ApiHooks; Add lzma.exe,PEC2.exe,PEChksum.exe,peclassify.exe,PEWaterMark.exe,testcodec.exe,petrim.exe;  |
 
 ## Reporting a Vulnerability
 
