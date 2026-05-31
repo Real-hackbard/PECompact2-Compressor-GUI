@@ -20,11 +20,17 @@ PECompact2 is a utility of the genre known as "executable packers". Executable p
 
 </br>
 
+### Update Notes
+* ```BugFix Precise Loading of Plugins```
+* ```BugFix Accurate loading of the codecs```
+* ```BugFix Precise loading of API hooks```
+
+</br>
+
 <img src="https://github.com/user-attachments/assets/2ea43ed9-29a3-4fe3-90f6-bbae7ba473e6" />  
 
 </br>
 </br>
-
 
 Typically, PECompact2 compresses modules substantially better than that of the common compression software such as RAR and ZIP. This is accomplished through advanced techniques of pre-processing a module to make it more compressible when passed to the compression algorithm. PECompact2 allows use of virtually any compression algorithm due to its CODEC plug-in support. Included compression algorithms are listed here.
 
