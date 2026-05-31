@@ -14,6 +14,7 @@
 <img src="https://github.com/user-attachments/assets/96d4c3fb-2c29-4965-8b52-bc23cfde7a12" />  
 
 </br>
+</br>
 
 PECompact2 is a utility of the genre known as "executable packers". Executable packers compress executables and modules so that their physical size is considerably smaller than it originally was. At runtime, the module (executable) is decompressed and reconstructed in memory. With high-performance executable packers such as PECompact v2.x, decompression and reconstruction is so rapid that load time may actually improve since the time saved by reading fewer bytes from the disk or network may exceed the time spent reconstructing and decompressing the module.
 
@@ -21,6 +22,7 @@ PECompact2 is a utility of the genre known as "executable packers". Executable p
 
 <img src="https://github.com/user-attachments/assets/2ea43ed9-29a3-4fe3-90f6-bbae7ba473e6" />  
 
+</br>
 </br>
 
 
